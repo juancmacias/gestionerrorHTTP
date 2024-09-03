@@ -28,7 +28,7 @@ Puedes modificar el código de la forma y manera que te apetezca, eres libre de 
 
 ## Tecnología 
 
-Para que funcione bien debe de configurarse correctamente el archivo .htcacces con el 'ErrorDocument' y el numero de error '400' y seguido el sitio donde queramos enviar 'erropagina.html'. Quedaria así:
+Para que funcione bien debe de configurarse correctamente el archivo .htaccess con el 'ErrorDocument' y el numero de error '400' y seguido el sitio donde queramos enviar 'erropagina.html'. Quedaria así:
 - ErrorDocument 400 http://www.juancarlosmacias.es/error/?error=400
 - ErrorDocument 401 http://www.juancarlosmacias.es/error/?error=401
 - ErrorDocument 403 http://www.juancarlosmacias.es/error/?error=403
